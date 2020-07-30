@@ -1,3 +1,1 @@
-#ML Projects
-CUSTOMER CHURN ANALYSIS
 
